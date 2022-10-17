@@ -1,0 +1,15 @@
+{
+  "name": "parcel-demo",
+  "version": "1.0.0",
+  "description": "Sample web app with Parcel",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  },
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "author": "Truoc Pham",
+  "license": "ISC"
+}
